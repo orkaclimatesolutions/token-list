@@ -1,0 +1,25 @@
+        "twitter": "https://twitter.com/orkaexchange",
+        "website": "https://orka.exchange/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FXSrKsQ34jMmMtciuzhr3KSTG5UMZQfXBJKGqYYUTxg1",
+      "symbol": "$ORKA",
+      "name": "ORKA Climate Solutions",
+      "decimals": 4,
+      "logoURI": "https://orka.solutions/wp-content/uploads/2021/10/ORKA-156PX.png",
+      "tags": [
+        "DeFi",
+        "DEX",
+        "Farm",
+        "Stake",
+        "AMM",
+        "ECO"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/orkaexchange",
+      }
+    }
+  ],
+  "version": {
